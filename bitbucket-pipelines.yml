@@ -1,4 +1,4 @@
-image: php:8.3-alpine
+image: php:8.5-alpine
 
 pipelines:
   default:
